@@ -18,13 +18,14 @@
 - Application Hardening
 - Performance optimization
 ---
-*Currently not accepting contributions*
-
-*Test environement macOS Ventura 13.7.8*
-*Python 3.13.7*
+**Test environement**
+- macOS Ventura 13.7.8
+- Python 3.13.7
 ---
 **Dependencies**
 - PyGame (font, sprite)
 - Sys (exit)
 - time (sleep)
 - random (randint)
+---
+*Currently not accepting contributions*
