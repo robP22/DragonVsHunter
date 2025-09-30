@@ -1,4 +1,4 @@
-###Dragon Vs Hunter
+***Dragon Vs Hunter***
 - 2 Dimensional PyGame implementation
 - use 'up' or 'down' arrows to move the Dragon
 - use the 'spacebar' to shoot fireballs
