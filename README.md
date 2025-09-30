@@ -14,9 +14,9 @@
 - allow the user to navigate the x axis
 ---
 **Secondary Focus**
--Gap Analysis
--Application Hardening
--Performance optimization
+- Gap Analysis
+- Application Hardening
+- Performance optimization
 ---
 *Currently not accepting contributions*
 
@@ -24,7 +24,7 @@
 *Python 3.13.7*
 ---
 **Dependencies**
--PyGame (font, sprite)
--Sys (exit)
--time (sleep)
--random (randint)
+- PyGame (font, sprite)
+- Sys (exit)
+- time (sleep)
+- random (randint)
